@@ -14,14 +14,18 @@ Folder/
 |- KoBART/       # KoBART model (py)
 |- KoDialoGPT/   # KoDialoGPT model (ipynb, py)
 |- Metric/       # Bert score setting (ipynb)
-|- reference/    # Poster (jpg)
+|- reference/    # Poster, Demon (pdf, gif)
 ```
+## 시연 영상
+<img src="reference/FAQ_시연.gif" width="300" height="500"/>
+<img src="reference/시동문제_시연.gif" width="300" height="500"/>
 
 ## 팀명 
 **OOPS!**
 
 ## 프로젝트 기간
 - 2022.12.26 ~ 2023.02.08
+
 
 ## **Member**
 - [김종태](https://github.com/happybell80)

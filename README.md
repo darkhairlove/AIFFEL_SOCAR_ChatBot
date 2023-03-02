@@ -17,8 +17,7 @@ Folder/
 |- reference/    # Poster, Demon (pdf, gif)
 ```
 ## 시연 영상
-<img src="reference/FAQ_시연.gif" width="300" height="500"/>
-<img src="reference/시동문제_시연.gif" width="300" height="500"/>
+<img src="reference/FAQ_시연.gif" width="300" height="500"/> <img src="reference/시동문제_시연.gif" width="300" height="500"/>
 
 ## 팀명 
 **OOPS!**

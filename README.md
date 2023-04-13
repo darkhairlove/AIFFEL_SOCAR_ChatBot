@@ -51,4 +51,4 @@ Folder/
 
 
 ## Comments
-[느낀점](https://www.notion.so/AIFFEL-X-SOCAR-8131783586cf41cc99f6a4db2b03ddd5?pvs=4#7e2ebbe0a92f46328f47dc0956752d72)
+[느낀점](https://www.notion.so/data--scientist/AIFFEL-X-SOCAR-e15b894c6dee4fff82fafa70184cc1ce?pvs=4#f3d4c80455b645ab85b66fca3174cbc7)
